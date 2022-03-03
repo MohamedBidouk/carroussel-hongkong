@@ -64,3 +64,9 @@ body{
     left: 0;
     min-height: 300px;
 }
+#nonsmoking{
+    visibility: hidden;
+}
+#smoking{
+    visibility: hidden;
+}
